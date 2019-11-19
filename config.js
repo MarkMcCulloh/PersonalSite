@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Mark',
-    photo: '/photo.jpg',
+    photo: '/media/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: 'Mark.McCulloh@gmail.com',
