@@ -25,13 +25,23 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Mark McCulloh',
+    name: 'Mark',
     photo: '/photo.jpg',
-    bio: 'Platform Engineer and Automation Fanatic',
+    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: 'Mark.McCulloh@gmail.com',
       github: 'https://github.com/MarkMcCulloh',
-      linkedin: 'https://www.linkedin.com/in/mark-mcculloh/'
+      linkedin: 'https://www.linkedin.com/in/mark-mcculloh/',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      rss: '',
+      vkontakte: '',
+      instagram: '',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: ''
     }
   }
 };
